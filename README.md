@@ -11,11 +11,20 @@ Conditions for Poisson Distribution:<br>
 2.Events occur independently.<br>
 3.The rate of occurrence is constant.<br>
 4.The probability of an event occurring is proportional to the length of the time period.<br> 
+<table>
+    <tr height=40%>
+        <td width=65%>
+            
 ### Procedure :
-<img height=17% width=80% src="https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png">
-
+<img src="https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png">
+</td>
+<td>
+    
 ### Experiment :
-<img height=17% width=60% src="https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png">
+<img src="https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png">
+</td>
+</tr>
+</table>
 
 ```
 Developed By: ROHIT JAIN D
