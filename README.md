@@ -71,6 +71,10 @@ else:
 ```
  
 ### Output : 
+<table border=5>
+<tr>
+<td>
+
 ```C
 5 1 6 3 4 2 5 3
 X P(X=x) Obs.Fr Exp.Fr xi
@@ -87,6 +91,12 @@ Calculated value of Chi square is 1.51
 Table value of chi square at 1 level is 16.81
 The given data can be fitted in poisson Distribution at 1% LOS
 ```
+
+</td>
+</tr>
+</table>
+
+
  
 ### Results :
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
